@@ -1,6 +1,6 @@
-# couldai_user_app
+# Lichi App
 
-A new Flutter project.
+Lichi app.
 
 ## Getting Started
 
